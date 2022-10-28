@@ -1,12 +1,13 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
+import Portfol from '../assets/projects/portfolio.png'
 
 export const data=[
     {
         id:1,
         name:"React JS Application",
-        image:WorkIm,
-        github:"",
+        image:Portfol,
+        github:"https://github.com/SachinMaurya01/Portfolio-",
         // live:"",
     },
     {
